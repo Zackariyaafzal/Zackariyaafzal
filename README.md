@@ -1,8 +1,11 @@
+
 - 👋 Hi, I’m @Zackariyaafzal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in
+- playing maro cart
+- 🌱 I’m currently learning year4
+- 💞️ I’m looking to collaborate on mario cart
+  
+- 📫 How to reach me my Gmail witch is za zackariyaafzal@gmail.com 
 
 <!---
 Zackariyaafzal/Zackariyaafzal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
